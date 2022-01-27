@@ -10,7 +10,7 @@ I am a student at Indira Gandhi Delhi Technical University for Women. I am an AR
 - 😄 Pronouns: She/Her  
 <br/>
 
-![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-nn-e&show_icons=true&theme=radical)___
+![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-nn-e&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-nn-e&layout=compact&theme=radical)](https://github.com/A-nn-e/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
