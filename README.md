@@ -8,4 +8,4 @@ I am a student at Indira Gandhi Delhi Technical University for Women. I am an AR
 - 📫 Reach me at: anmol2jha@gmail.com
 - 😄 Pronouns: She/Her
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=A-nn-e_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=A-nn-e=true&hide_border=true&&count_private=true&include_all_commits=true" />
